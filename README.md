@@ -1,1 +1,1 @@
-# Practice - Repo - Git branching | Git Merging -> Git Work Flow
+# Git branching | Git Merging | Git Work Flow
